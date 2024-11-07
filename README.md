@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kwesi Makonnen</h1>
+<h1 align="center">Hello there , I'm Kwesi Makonnen</h1>
 <h3 align="center">A passionate Data Scientist and Full Stack Developer, progressing towards Machine Learning Engineering</h3>
 
 - 🌱 I’m currently learning **Mathematics for Machine Learning and Data Engineering.**
