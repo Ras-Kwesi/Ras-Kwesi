@@ -1,9 +1,9 @@
-<h1 align="center">Hello there , I'm Kwesi Makonnen</h1>
-<h3 align="center">A passionate Data Scientist and Full Stack Developer, progressing towards Machine Learning Engineering</h3>
+<h1 align="center">Hello</h1>
+<h3 align="center">A passionate Data Scientist and Full Stack Developer, progressing to Machine Learning Engineering </h3>
 
 - 🌱 I’m currently learning **Data Engineering + MLOps**
 
-- 💬 Ask me about **Django, Flask, Python, Data Visualization, Data Science ,Machine Learning, Neuroscience**
+- 💬 Ask me about **Django, Flask, Python, Data Visualization, Data Science, Machine Learning, Neuroscience**
 
 - 📫 How to reach me **Kwesi.Makonnen@gmail.com**
 
