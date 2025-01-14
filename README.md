@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineering + MLOps**
 
-- 💬 Ask me about **Django, Flask, Python,**
+- 💬 Ask me about **Django, Flask, Python, Data Visualization, Data Science ,Machine Learning, Neuroscience**
 
 - 📫 How to reach me **Kwesi.Makonnen@gmail.com**
 
