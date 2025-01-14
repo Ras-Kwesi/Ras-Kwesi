@@ -1,7 +1,7 @@
 <h1 align="center">Hello there , I'm Kwesi Makonnen</h1>
 <h3 align="center">A passionate Data Scientist and Full Stack Developer, progressing towards Machine Learning Engineering</h3>
 
-- 🌱 I’m currently learning **Mathematics for Machine Learning and Data Engineering.**
+- 🌱 I’m currently learning **Data Engineering + MLOps**
 
 - 💬 Ask me about **Django, Flask, Python,**
 
