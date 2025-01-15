@@ -1,5 +1,5 @@
 <h1 align="center">Hello</h1>
-<h3 align="center">I'm Kwsesi, a Data Scientist and Full Stack Developer, progressing to Machine Learning Engineering & Research </h3>
+<h3 align="center">I'm Kwesi, a Data Scientist and Full Stack Developer, progressing to Machine Learning Engineering & Research </h3>
 
 - 🌱 Currently learning **Data Engineering + MLOps**
 
