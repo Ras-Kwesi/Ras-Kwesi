@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **Kwesi.Makonnen@gmail.com**
 
+- 🔥 Interests: **Sports and Stunts, Science-Fiction(Books, Movies, Anime), Cybernetics, Arm-Chair Economics, Philosophy, History & Anthropology, Travel**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/kwesimakonnen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kwesimakonnen" height="30" width="40" /></a>
