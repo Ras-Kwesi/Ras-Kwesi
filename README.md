@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **Kwesi.Makonnen@gmail.com**
 
-- 🔥 Interests: **Sports and Stunts, Science-Fiction(Books, Movies, Anime), Cybernetics, Arm-Chair Economics,
-      Philosophy, History & Anthropology, Travel**
+- 🔥 Interests: **Sports and Stunts, Science-Fiction(Books, Movies, Anime), Cybernetics, Arm-Chair Economics, Philosophy, History & Anthropology, Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
